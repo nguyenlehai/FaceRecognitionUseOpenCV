@@ -1,0 +1,18 @@
+44
+INVOICE_22_20180406093809
+hai
+2018-04-06 09:38:34.853000
+92213
+Item: hang 1 - Employee: nhan 2f - Money: 1111; 
+Item: hang 2 - Employee: nhan 1 - Money: 2222; 
+Item: hang 3 - Employee: nhan 1 - Money: 3333; 
+Item: hang 4 - Employee: nhan 2f - Money: 4444; 
+Item: hang5 - Employee: nhan 1 - Money: 5555; 
+
+43
+INVOICE_22_20180406093551
+hai
+2018-04-06 09:35:57.890000
+9999
+Item: hang 3 - Employee: nhan 1 - Money: 3333; 
+
