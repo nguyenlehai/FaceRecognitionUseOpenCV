@@ -1,7 +1,5 @@
 USE [SHOP]
 GO
-
-/****** Object:  StoredProcedure [dbo].[invoiceHeader_GetList_ByCMTND]    Script Date: 4/6/2018 9:56:45 AM ******/
 SET ANSI_NULLS ON
 GO
 
@@ -39,8 +37,6 @@ AS
                 AND c.cmtnd = @CMTND
         ORDER BY h.date DESC;
     END;
-
-
 GO
 
 
